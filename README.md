@@ -13,5 +13,5 @@ As of the moment, I enrolled in [Practicum Web Development Program](https://prac
 ### Contact Me
 
 - [LinkedIn](https://www.linkedin.com/in/aishat-l-06289a102/)
-- [Email](mailto:aishatliasu17965@gmail.com)
+- [Twitter](https://twitter.com/AishatLiasu)
 
