@@ -2,7 +2,7 @@
 
 I am a Frontend Engineer. I love converting UIs to fully functioning web apps. 
 I am constantly learning better ways to write maintainable and scalable code.
-As of the moment, I enrolled in [Practicum Web Development Program](https://practicum.yandex.com/web/).  
+As of the moment, I am enrolled in [Practicum Web Development Program](https://practicum.yandex.com/web/).  
 
 ### Skills
 - HTML 
