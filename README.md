@@ -12,6 +12,6 @@ As of the moment, I am enrolled in [Practicum Web Development Program](https://p
 
 ### Contact Me
 
-- [LinkedIn](https://www.linkedin.com/in/aishat-l-06289a102/)
+- [LinkedIn](https://www.linkedin.com/in/aishat-liasu/)
 - [Twitter](https://twitter.com/AishatLiasu)
 
