@@ -1,14 +1,24 @@
 ## Hello... I'm Aishat Liasu.
 
-I am a Software Engineer with experience with frontend technologies. I love converting UIs to fully functioning web apps. 
+I am a Full Stack Web Developer and Software Engineer. I love building solutions to problems. 
 I am constantly learning better ways to write maintainable and scalable code. 
-As of the moment, I am training to be a Full Stack Web Engineer using [Practicum Web Development Program](https://practicum.yandex.com/web/).  
+As of the moment, I am trying to create my portfolio as it's long over due. 
 
 ### Skills
+
+These are technologies I have used the most as a Developer
+
 - HTML 
 - CSS 
 - JavaScript 
 - React
+- WordPress
+- SQL
+- PostgreSQL
+- MySQL
+- Python
+- Express
+- NodeJs
 
 ### Contact Me
 
