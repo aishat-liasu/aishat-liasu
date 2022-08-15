@@ -4,23 +4,19 @@ I am a Full Stack Web Developer and Software Engineer. I am a problem solver see
 I am constantly learning better ways to write maintainable and scalable code as well as improve my soft skills. 
 As of the moment, I am trying to create my portfolio as it's long over due. 
 
-### Skills
+### Technical Skills
 
 These are technologies I have used as a Developer
 
-- HTML 
-- CSS 
-- JavaScript 
-- React
-- WordPress
-- SQL
-- PostgreSQL
-- MySQL
-- Python
-- Express
-- NodeJs
+- Frontend: HTML, CSS, JavaScript, React, WordPress
+- Backend: SQL, PostgreSQL, MySQL, Python, Express, NodeJs, Flask
 
-### Contact Me
+### Soft Skills
+
+- Problem solving
+- Dedicated Learner
+
+### Connect With Me
 
 - [Portfolio](https://aishat-liasu.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/aishat-liasu)
