@@ -1,6 +1,6 @@
 ## Hello... My name is Aishat Liasu.
 
-I am a Full Stack Web Developer and Software Engineer. I am a problem solver seeking to solve problems using human creativity and technology. 
+I am a Full Stack Web Developer and Software Engineer. I am a problem solver passionate about building solutions using human creativity and technology. 
 I am constantly learning better ways to write maintainable and scalable code as well as improve my soft skills. 
 As of the moment, I am working my portfolio as it's long over due. 
 
