@@ -1,6 +1,6 @@
-## Hello... My name is Aishat Liasu.
+## Hello... I am Aishat.
 
-I am a Software Engineer with 5 years of experience in developing scalable and maintainable applications. I am passionate about problem-solving and dedicated to creating innovative solutions through a combination of creativity and technology.
+Software Engineer with 5 years of experience developing scalable and maintainable web applications.
 
 
 ### Technical Skills
